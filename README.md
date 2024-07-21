@@ -1,8 +1,5 @@
 <img src="https://github.com/wigderp/wigderp/blob/main/header.png" alt="альтернативный текст">
 
-# BookSystem
-
-Описание
 BookSystem - это консольное приложение Python, предназначенное для управления библиотекой книг.
 
 Приложение позволяет:
